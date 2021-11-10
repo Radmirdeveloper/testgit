@@ -1,5 +1,6 @@
 #main {
     width: 110px;
+    height: 100px;
     background: green;
     border-radius: 50%;
     margin: 50px;
@@ -13,6 +14,11 @@
 #pink {
     width: 300px;
     background: pink;
+    border-radius: 50%;
+}
+#green {
+    width: 200px;
+    background: green;
     border-radius: 50%;
     margin: 50px;
 }
